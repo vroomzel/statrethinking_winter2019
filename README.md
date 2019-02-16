@@ -58,12 +58,12 @@ I will add links to slides and videos in the calendar below. The slides will be 
 13-Feb 04: Monsters & Mixtures (Poisson GLMs, survival, zero-inflation) <[slides](https://speakerdeck.com/rmcelreath/l13-statistical-rethinking-winter-2019)> <[video](https://youtu.be/p7g-CgGCS34)>  
 14-Feb 08: Ordered Categories, Left & Right <[slides](https://speakerdeck.com/rmcelreath/l14-statistical-rethinking-winter-2019)> <[video](https://youtu.be/zA3Jxv8LOrA)>  
 
-15-Feb 11: Multilevel models  
-16-Feb 15: Adventures in Covariance  
+15-Feb 11: Multilevel Models <[slides](https://speakerdeck.com/rmcelreath/l15-statistical-rethinking-winter-2019)> <[video](https://youtu.be/AALYPv5xSos)>  
+16-Feb 15: Multilevel Models 2 <[slides](https://speakerdeck.com/rmcelreath/l16-statistical-rethinking-winter-2019)> <[video](https://youtu.be/ZG3Oe35R5sY)>  
 
-17-Feb 18: Gaussian processes  
-18-Feb 22: Instruments and front doors  
+17-Feb 18: Adventures in Covariance  
+18-Feb 22: Instruments and other doors  
 
-19-Feb 25: Missing Values and Measurement Error  
-20-Mar 01: Generalized Linear Madness (models beyond the GLM(M) framework)  
+19-Feb 25: Gaussian Processes  
+20-Mar 01: Missing Values and Measurement Error  
 
