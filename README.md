@@ -9,8 +9,6 @@ Location: Max Planck Institute for Evolutionary Anthropology, main seminar room
 
 When: 10am-11am Mondays & Fridays (see calendar below)
 
-Text: Statistical Rethinking, 1st ed and 2nd ed draft chapters <https://xcelab.net/rm/statistical-rethinking/>
-
 # Materials
 
 ## R package
@@ -22,8 +20,6 @@ install_github("rmcelreath/rethinking",ref="Experimental")
 ```
 The code is all on github: <https://github.com/rmcelreath/rethinking/tree/Experimental>
 
-You can also run everything from the RStudio Cloud in your web browser. This is up-to-date with rethinking 1.80 and rstan 2.17.3 (as of 4 Dec 2018): <https://rstudio.cloud/project/56157>
-
 ## Draft chapters
 We'll use draft chapters for the 2nd edition of my book, Statistical Rethinking. You can download them at this link: <https://xcelab.net/rm/sr2/>. The password is at the end of the 2nd lecture (linked below).
 
@@ -32,7 +28,7 @@ I will also post problem sets and solutions here. Check the folders at the top.
 
 ## Lectures
 
-I will add links to slides and videos in the calendar below. The slides will be posted here: <https://speakerdeck.com/rmcelreath>. The videos will be here: <https://www.youtube.com/playlist?list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI>.
+Links to slides and videos are in the calendar below. The full lecture video playlist is here: <[Statistical Rethinking 2019](https://www.youtube.com/playlist?list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI)>.
 
 # Calendar & Topical Outline
 
@@ -61,9 +57,9 @@ I will add links to slides and videos in the calendar below. The slides will be 
 15-Feb 11: Multilevel Models <[slides](https://speakerdeck.com/rmcelreath/l15-statistical-rethinking-winter-2019)> <[video](https://youtu.be/AALYPv5xSos)>  
 16-Feb 15: Multilevel Models 2 <[slides](https://speakerdeck.com/rmcelreath/l16-statistical-rethinking-winter-2019)> <[video](https://youtu.be/ZG3Oe35R5sY)>  
 
-17-Feb 18: Adventures in Covariance  
-18-Feb 22: Instruments and other doors  
+17-Feb 18: Adventures in Covariance <[slides](https://speakerdeck.com/rmcelreath/l17-statistical-rethinking-winter-2019)> <[video](https://youtu.be/yfXpjmWgyXU)>  
+18-Feb 22: Slopes, Instruments and Social Relations <[slides](https://speakerdeck.com/rmcelreath/l18-statistical-rethinking-winter-2019)> <[video](https://youtu.be/e5cgiAGBKzI)>  
 
-19-Feb 25: Gaussian Processes  
-20-Mar 01: Missing Values and Measurement Error  
+19-Feb 25: Gaussian Processes <[slides](https://speakerdeck.com/rmcelreath/l19-statistical-rethinking-winter-2019)> <[video](https://youtu.be/pwMRbt2CbSU)>  
+20-Mar 01: Missing Values and Measurement Error <[slides](https://speakerdeck.com/rmcelreath/l20-statistical-rethinking-winter-2019)> <[video](https://youtu.be/UgLF0aLk85s)>  
 
